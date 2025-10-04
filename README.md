@@ -1,2 +1,6 @@
 # Programming_Fundamentals
-I will upload all my codes here
+This repository contains my practice programs for C++ concepts.
+
+Contents
+- "No of weeks calculator.cpp"
+Converts number of days into weeks and remaining days.
